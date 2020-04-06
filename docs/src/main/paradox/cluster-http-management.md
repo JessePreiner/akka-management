@@ -154,7 +154,7 @@ Example response:
 
 ## Hosting the routes in an existing Akka HTTP server
 
-Starting `AkkaMangement` starts an Akka HTTP server and hosts the Cluster HTTP Routes. The routes can also be added
+Starting `AkkaManagement` starts an Akka HTTP server and hosts the Cluster HTTP Routes. The routes can also be added
 to an existing Akka HTTP server. To access all the routes:
 
 Scala
